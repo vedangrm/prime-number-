@@ -1,5 +1,7 @@
 # prime-number
+
 #include<stdio.h>
+
 int main ()
 {
     int i,m,n,j,p=0;
